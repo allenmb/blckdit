@@ -53,4 +53,22 @@
         color: #42b983;
     }
 
+    footer {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background: #373737;
+        color: #F3F3F3;
+        flex-shrink: 0;
+        text-align: center;
+        padding: 5px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    a {
+        color: #F3F3F3;
+        text-decoration: none;
+    }
+
 </style>
