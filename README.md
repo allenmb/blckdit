@@ -1,8 +1,29 @@
 # blckdit
-An oversimplified reddit-like application for fifth CS 260 Creative Project
 
-The idea is to have a page where users can register, submit posts and comment on posts.
+## Project setup
+```
+npm install
+```
 
-A user will also be able to see their posts and comments.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-At least that's the idea.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
